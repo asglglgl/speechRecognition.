@@ -1,0 +1,3 @@
+﻿  demo_Speech.cpp
+c:\program files (x86)\windows kits\8.1\include\um\sphelper.h(1319): error C4996: 'GetVersionExW': 被声明为已否决
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: 参见“GetVersionExW”的声明

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GRAMMAR LANGID="804">
+ <DEFINE>
+    <ID NAME="CMD" VAL="10"/>
+    </DEFINE>
+  <RULE NAME="COMMAND" ID="CMD" TOPLEVEL="ACTIVE">
+   <L>
+	<P>经度128度36分21秒</P>
+	<P>纬度22度36分21秒</P>
+	<P>高度2000</P>
+    </L>
+   </RULE>
+</GRAMMAR>

@@ -1,0 +1,17 @@
+﻿  demo_Speech.cpp
+c:\program files (x86)\windows kits\8.1\include\um\sphelper.h(1319): warning C4996: 'GetVersionExW': 被声明为已否决
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: 参见“GetVersionExW”的声明
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(125): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(235): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(241): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(246): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(247): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(264): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(270): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(275): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(276): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(292): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(299): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\share\desktop\demo_speech\demo_speech\demo_speech.cpp(306): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  demo_Speech.vcxproj -> C:\Users\share\Desktop\demo_Speech\x64\Debug\demo_Speech.exe
+  demo_Speech.vcxproj -> C:\Users\share\Desktop\demo_Speech\x64\Debug\demo_Speech.pdb (Full PDB)
